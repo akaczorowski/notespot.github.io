@@ -8,7 +8,7 @@ All of the notes that user creates are stored in the app's internal storage. The
 ### 2. Information collected
 No information is collected.
 
-### 3. 8. Policy changes
+### 3. Policy changes
 All policy changes will be reflected by updates of this document.
 
 
