@@ -2,7 +2,7 @@
 
 This document describes data collected and processed by the "NoteSpot".
 
-###1. Notes
+### 1. Notes
 All of the notes that user creates are stored in the app's internal storage. The notes can't be accessed by any other app on the phone. The only way to access the notes is to use the app.
 
 ### 2. Information collected
